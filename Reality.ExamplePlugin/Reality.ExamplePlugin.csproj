@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Reality.ModLoader">
-      <HintPath>D:\Fortnite\Builds\4.16.0-3700114+++Fortnite+Release-Cert\FortniteGame\Binaries\Win64\Reality.ModLoader.dll</HintPath>
+      <HintPath>D:\Fortnite\Builds\4.16.0-3724489+++Fortnite+Release-Live\FortniteGame\Binaries\Win64\Reality.ModLoader.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
